@@ -1,6 +1,6 @@
 package homework07;
 
-public class DemoTurners {
+public class DemoTurners2 {
     public static void main(String[] args) {
         Leaf operation1 = new Leaf();
         operation1.turn();
