@@ -10,6 +10,6 @@ public class MetalElement extends Element {
     @Override
     public void describeElement() {
         System.out.println("Symbol: "+getSymbol()+" ,Atomic Number: "+getAtomicNumber()+" " +
-                ",Atomic Weight: "+getAtomicweight()+" ,Part of Metal Element");
+                ",Atomic Weight: "+getAtomicweight()+" ,Part of Metal Element *good conductor*");
     }
 }
